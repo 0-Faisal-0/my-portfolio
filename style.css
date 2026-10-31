@@ -169,7 +169,7 @@ body.dark-mode .site-header .logo {
   border-color: #59645d;
 }
 
-.dark-mode nav a,
+.dark-mode nav a:not(.logo),
 .dark-mode .intro-text,
 .dark-mode .info-row p,
 .dark-mode footer {
