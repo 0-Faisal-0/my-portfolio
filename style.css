@@ -159,7 +159,7 @@ footer {
   background: #202923;
   color: #f4f1e8;
 }
-.dark-mode .logo {
+body.dark-mode .site-header .logo {
   color: #f4f1e8;
 }
 
