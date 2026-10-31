@@ -108,35 +108,43 @@ Employers, recruiters, classmates, and anyone who wants to see what I work on.
 ## Part 3: Interactivity
 
 1. **What interactive parts does my site have?**  
-   I use the menu links to move between pages and a button to switch between dark and light mode.
+   I use menu links to move between pages and a button to switch between dark and light mode.
 
 2. **Does my site have a contact form?**  
-   No. Visitors can click my email address to send me a message.
+   No. Visitors can click my email address to contact me.
 
 3. **What JavaScript do I use?**  
-   I use JavaScript for dark mode. It remembers the mode I chose when I return to the site.
+   I use JavaScript for dark mode. It saves my choice when I return to the site.
 
 4. **How does the site respond when someone clicks something?**  
-   The menu opens another page, the email link opens an email app, and the dark mode button changes the page colors.
+   The menu opens another page, the email link opens an email app, and the dark mode button changes the colors.
 
-5. **How does this help visitors?**  
-   It makes it easier to move around the site, read it in dark mode, and contact me.
+5. **How does interactivity help visitors?**  
+   It helps visitors move around the site, choose a reading mode, and contact me.
+
+## Content strategy
+
+I use short descriptions to explain my background, skills, and projects. I want visitors to understand what I do and how to contact me.
 
 ## Information organization
 
-I put my introduction first, followed by my skills, projects, and contact information. The same menu appears on each page.
+I put my introduction first, followed by my skills, projects, and contact information. The same menu appears on every page.
+
+## Interaction and functionality
+
+Visitors can move between the four pages, switch between light and dark mode, and email me from the Contact page.
 
 ## Technical overview
 
-I made the site with HTML, CSS, and JavaScript. GitHub Pages hosts it. The files are `index.html`, `skills.html`, `projects.html`, `contact.html`, `style.css`, and `script.js`.
+I made the site with HTML, CSS, and JavaScript. GitHub Pages hosts it. My files include four HTML pages, `style.css`, `script.js`, and my photo.
 
 ## Project milestones
 
 1. I planned the pages and wrote the README.
 2. I built the four pages with HTML.
-3. I added the colors, layout, and mobile styles with CSS.
-4. I added the dark mode button with JavaScript.
-5. I uploaded the files to GitHub and turned on GitHub Pages.
+3. I styled the pages and added a small-screen layout with CSS.
+4. I added dark mode with JavaScript.
+5. I uploaded the site to GitHub and enabled GitHub Pages.
 
 ## Outside resources
 
