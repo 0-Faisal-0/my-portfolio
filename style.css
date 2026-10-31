@@ -159,6 +159,9 @@ footer {
   background: #202923;
   color: #f4f1e8;
 }
+.dark-mode .logo {
+  color: #f4f1e8;
+}
 
 .dark-mode .site-header,
 .dark-mode .info-row,
