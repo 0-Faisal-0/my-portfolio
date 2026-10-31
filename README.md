@@ -70,7 +70,7 @@ Employers, recruiters, classmates, and anyone who wants to see what I work on.
    Each project gets its own row, with the title on the left and a short description on the right.
 
 7. **Will my site work on phones?**  
-   Partly. On screens under 600px wide, my photo gets smaller and moves above my heading. The rest of the layout stays the same.
+   I added a small-screen style that moves my photo above my heading and makes it smaller. I also tested the pages on a phone-sized screen and adjusted the layout where needed.
 
 8. **How do I guide visitors?**  
    The same menu is on every page, each page has a clear heading, and there's a link at the bottom pointing to the next logical page.
