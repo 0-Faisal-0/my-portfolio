@@ -104,3 +104,40 @@ Employers, recruiters, classmates, and anyone who wants to see what I work on.
 
 [Footer]
 ```
+
+## Part 3: Interactivity
+
+1. **What interactive parts does my site have?**  
+   I use the menu links to move between pages and a button to switch between dark and light mode.
+
+2. **Does my site have a contact form?**  
+   No. Visitors can click my email address to send me a message.
+
+3. **What JavaScript do I use?**  
+   I use JavaScript for dark mode. It remembers the mode I chose when I return to the site.
+
+4. **How does the site respond when someone clicks something?**  
+   The menu opens another page, the email link opens an email app, and the dark mode button changes the page colors.
+
+5. **How does this help visitors?**  
+   It makes it easier to move around the site, read it in dark mode, and contact me.
+
+## Information organization
+
+I put my introduction first, followed by my skills, projects, and contact information. The same menu appears on each page.
+
+## Technical overview
+
+I made the site with HTML, CSS, and JavaScript. GitHub Pages hosts it. The files are `index.html`, `skills.html`, `projects.html`, `contact.html`, `style.css`, and `script.js`.
+
+## Project milestones
+
+1. I planned the pages and wrote the README.
+2. I built the four pages with HTML.
+3. I added the colors, layout, and mobile styles with CSS.
+4. I added the dark mode button with JavaScript.
+5. I uploaded the files to GitHub and turned on GitHub Pages.
+
+## Outside resources
+
+- [GitHub Pages guide](https://docs.github.com/en/pages)
