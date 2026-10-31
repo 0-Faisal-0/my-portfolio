@@ -72,11 +72,6 @@ h1 {
   font-size: 44px;
   line-height: 1.15;
 }
-
-h1 span {
-  color: #55745d;
-}
-
 .intro-text,
 .info-row p {
   color: #536056;
